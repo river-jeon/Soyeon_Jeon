@@ -1,23 +1,17 @@
-#-------------------------------
-# General Site Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://avenco.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Soyeon_Jeon"  # If your repo is NOT username.github.io
+url: "https://river-jeon.github.io"
 
-
-#-------------------------------
-# Build Settings
 markdown: kramdown
 permalink: /:title
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  # - jekyll/tagging
+#  - jekyll/tagging  # Remove or comment out for GitHub Pages
 
 paginate: 6
 paginate_path: "/blog/page/:num"
 
-
-# Collections
 collections:
   pages:
     output: true
@@ -29,7 +23,6 @@ collections:
     output: true
     permalink: /project/:slug
 
-# Pages Path
 defaults:
   - scope:
       path: ""
@@ -51,11 +44,10 @@ defaults:
     values:
       layout: "project"
 
-
-# Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  /:title
+# Tags (optional, remove if you're not using tagging plugin)
+# tag_page_dir:         tag
+# tag_page_layout:      tag_page
+# tag_permalink_style:  /:title
 
 sass:
   sass_dir: _sass
