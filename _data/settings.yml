@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 
-title: Avenco
+title: Soyeon Jeon
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Avenco – Creative Portfolio Theme for Jekyll
 
@@ -31,13 +31,10 @@ cover__image: '/images/37.jpg'
 # Author Settings
 
 author:
-  name: James Clayton
+  name: Soyeon Jeon
   title: Hello I’m Soyeon Jeon
   bio: I am a Ph.D. student in Political Science and an A.M. student in Statistics and Data Science at Washington University in St. Louis.  
-      My dissertation chair is <a href="https://polisci.wustl.edu/people/jacob-montgomery">Jacob Montgomery</a>, and my committee members include  
-      <a href="https://christopherlucas.org/">Christopher Lucas</a>,  
-      <a href="https://sites.wustl.edu/tncarlson/">Taylor Carlson</a>, and  
-      <a href="https://sites.wustl.edu/betsysinclair/">Betsy Sinclair</a>.
+     
       When I'm not working, 404 not found. I also avoid horror movies at all costs.   
   image: '/images/01.png'
   avatar: '/images/avatar.jpg'
