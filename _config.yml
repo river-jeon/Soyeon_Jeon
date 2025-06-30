@@ -2,7 +2,7 @@ baseurl: "/Soyeon_Jeon"  # If your repo is NOT username.github.io
 url: "https://river-jeon.github.io"
 
 markdown: kramdown
-permalink: /:index
+permalink: /:title
 
 plugins:
   - jekyll-paginate
