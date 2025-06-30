@@ -33,12 +33,13 @@ cover__image: '/images/37.jpg'
 author:
   name: Soyeon Jeon
   title: Hello I’m Soyeon!
-  bio: I am a Ph.D. student in Political Science and an A.M. student in Statistics and Data Science at Washington University in St. Louis. I am a Ph.D. student in Political Science and an A.M. student in Statistics and Data Science at Washington University in St. Louis.  
-      My dissertation chair is <a href="https://polisci.wustl.edu/people/jacob-montgomery">Jacob Montgomery</a>, and my committee members include  
-      <a href="https://christopherlucas.org/">Christopher Lucas</a>,  
-      <a href="https://sites.wustl.edu/tncarlson/">Taylor Carlson</a>, and  
-      <a href="https://sites.wustl.edu/betsysinclair/">Betsy Sinclair</a>.
-      I enjoy listening to music and have played Korean traditional instruments for 15 years. I also avoid horror movies at all costs.   
+  bio: |
+  I am a Ph.D. student in Political Science and an A.M. student in Statistics and Data Science at Washington University in St. Louis.  
+  My dissertation chair is <a href="https://polisci.wustl.edu/people/jacob-montgomery">Jacob Montgomery</a>, and my committee members include  
+  <a href="https://christopherlucas.org/">Christopher Lucas</a>,  
+  <a href="https://sites.wustl.edu/tncarlson/">Taylor Carlson</a>, and  
+  <a href="https://sites.wustl.edu/betsysinclair/">Betsy Sinclair</a>.  
+  I enjoy listening to music and have played Korean traditional instruments for 15 years. I also avoid horror movies at all costs.   
   image: '/images/01.jpg'
   avatar: '/images/avatar.jpg'
   button__text: See my works
