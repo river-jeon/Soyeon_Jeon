@@ -1,4 +1,4 @@
-baseurl: ""  # If your repo is NOT username.github.io
+baseurl: ""  
 url: "https://river-jeon.github.io"
 
 markdown: kramdown
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "project"
 
-# Tags (optional, remove if you're not using tagging plugin)
+# Tags (optional, remove if not using tagging plugin)
 # tag_page_dir:         tag
 # tag_page_layout:      tag_page
 # tag_permalink_style:  /:title
