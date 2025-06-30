@@ -1,4 +1,4 @@
-baseurl: "/Soyeon_Jeon"  # If your repo is NOT username.github.io
+baseurl: ""  # If your repo is NOT username.github.io
 url: "https://river-jeon.github.io"
 
 markdown: kramdown
