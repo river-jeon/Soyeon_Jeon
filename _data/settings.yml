@@ -33,7 +33,7 @@ cover__image: '/images/37.jpg'
 author:
   name: Soyeon Jeon
   title: Hello I’m Soyeon!
-  bio: I am a Ph.D. student in Political Science and an A.M. student in Statistics and Data Science at Washington University in St. Louis. My dissertation chair is Jacob Montgomery, and my committee members include Christopher Lucas, Taylor Carlson, and Betsy Sinclair. I enjoy listening to music and have played Korean traditional instruments for 15 years. I also avoid horror movies at all costs.
+  bio: I am a Ph.D. student in Political Science and an A.M. student in Statistics and Data Science at Washington University in St. Louis. I am interested in Computational Social Science and Political Communication. When I'm not working, 404 not found.
   image: '/images/01.jpg'
   avatar: '/images/avatar.jpg'
   button__text: See my works
@@ -50,25 +50,25 @@ projects__settings:
 #-------------------------------
 # Testimonials Section
 
-testimonial__title: My Happy <span class="text-span">Clients</span> # Add a 'text-span' class to highlight text.
+testimonial__title: My Happy <span class="text-span">Committee</span> # Add a 'text-span' class to highlight text.
 
 testimonial-items:
-  - name: "Zaire Baptista"
+  - name: "Jacob Montgomery"
     image: "/images/client-1.jpg"
     designation : "Traveler"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
-  - name: "Ann Philips"
+  - name: "Christopher Lucas"
     image: "/images/client-2.jpg"
     designation : "Designer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
-  - name: "Roger Bergson"
+  - name: "Taylor Carlson"
     image: "/images/client-3.jpg"
     designation : "CEO, Founder"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
-  - name: "Julie Arnold"
+  - name: "Betsy Sinclair"
     image: "/images/client-4.jpg"
     designation : "Full stack developer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
