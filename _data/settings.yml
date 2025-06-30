@@ -43,7 +43,7 @@ author:
 # Projects Settings
 
 projects__settings:
-  projects__title: Latest <span class="text-span">Works</span> # Add a 'text-span' class to highlight text.
+  projects__title: Working <span class="text-span">Paper</span> # Add a 'text-span' class to highlight text.
   projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
 
 
