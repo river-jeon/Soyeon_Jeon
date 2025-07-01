@@ -55,23 +55,23 @@ testimonial__title: My Happy <span class="text-span">Committee</span> # Add a 't
 testimonial-items:
   - name: "Jacob Montgomery"
     image: "/images/client-1.jpg"
-    designation : "Professor at WashU PoliSci"
-    content : "Professor Montgomery's research focuses on how to use advanced methods from statistics and computer science for core social science tasks with a focus on American politics and social media."
+    designation: "Professor at WashU PoliSci"
+    content: "Professor Montgomery's research focuses on how to use advanced methods from statistics and computer science for core social science tasks with a focus on American politics and social media."
 
   - name: "Christopher Lucas"
     image: "/images/client-2.jpg"
-    designation : "Associate Professor at WashU PoliSci"
-    content : "Professor Lucas studies methodology, political communication, and the media."
+    designation: "Associate Professor at WashU PoliSci"
+    content: "Professor Lucas studies methodology, political communication, and the media."
 
   - name: "Taylor Carlson"
     image: "/images/client-3.jpg"
-    designation : "Associate Professor at WashU PoliSci"
-    content : "Professor Carlson studies American Politics with a focus on political communication and political psychology."
+    designation: "Associate Professor at WashU PoliSci"
+    content: "Professor Carlson studies American Politics with a focus on political communication and political psychology."
 
   - name: "Betsy Sinclair"
     image: "/images/client-4.jpg"
-    designation : "Thomas F. Eagleton University Professor of Public Affairs and Political Science"
-    content : "​Professor Sinclair’s research interests include American politics and political methodology with an emphasis on individual political behavior."
+    designation: "Thomas F. Eagleton University Professor of Public Affairs and Political Science"
+    content: "​Professor Sinclair’s research interests include American politics and political methodology with an emphasis on individual political behavior."
 
 
 #-------------------------------
