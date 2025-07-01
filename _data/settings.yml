@@ -56,7 +56,7 @@ testimonial-items:
   - name: "Jacob Montgomery"
     image: "/images/client-1.jpg"
     designation : "Professor at WashU PoliSci"
-    content : "Professor Montgomery's research focuses on how to use advanced methods from statistics and computer science for core social science tasks including measurement and theory testing with a special focus on American politics and (more recently) social media."
+    content : "Professor Montgomery's research focuses on how to use advanced methods from statistics and computer science for core social science tasks with a focus on American politics and social media."
 
   - name: "Christopher Lucas"
     image: "/images/client-2.jpg"
