@@ -28,9 +28,20 @@
                 <div class="client-meta">
                   {% if testimonial-item.image %}
                     <div class="image-container">
-                      <img class="client-avatar" src="{{ testimonial-item.image | relative_url }}" alt="{{ testimonial-item.name }}">
+                      {% if testimonial-item.url %}
+                        <a href="{{ testimonial-item.url }}" target="_blank" rel="noopener">
+                          <img class="client-avatar" src="{{ testimonial-item.image | relative_url }}" alt="{{ testimonial-item.name }}">
+                        </a>
+                      {% else %}
+                        <img class="client-avatar" src="{{ testimonial-item.image | relative_url }}" alt="{{ testimonial-item.name }}">
+                      {% endif %}
                     </div>
                   {% endif %}
+<!--              {% if testimonial-item.image %}
+                    <div class="image-container">
+                    <img class="client-avatar" src="{{ testimonial-item.image | relative_url }}" alt="{{ testimonial-item.name }}">
+                  </div>
+                {% endif %} -->
                   <div class="client-info">
                     {% if testimonial-item.name %}
                       <h3 class="client-name">{{ testimonial-item.name }}</h3>
