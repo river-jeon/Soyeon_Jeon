@@ -61,12 +61,12 @@ testimonial-items:
   - name: "Christopher Lucas"
     image: "/images/client-2.jpg"
     designation: "Associate Professor at WashU PoliSci"
-    content: "Professor Lucas studies methodology, political communication, and the media."
+    content: "Professor Lucas studies methodology, political communication, and the media. Ongoing work is supported by multiple grants from the National Science Foundation."
 
   - name: "Taylor Carlson"
     image: "/images/client-3.jpg"
     designation: "Associate Professor at WashU PoliSci"
-    content: "Professor Carlson studies American Politics with a focus on political communication and political psychology."
+    content: "Professor Carlson studies American Politics with a focus on political communication and political psychology specifically content, process, and consequences of interpersonal political communication."
 
   - name: "Betsy Sinclair"
     image: "/images/client-4.jpg"
@@ -119,9 +119,9 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 # Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
+- {icon: "ion-logo-twitter", link: "https://x.com/soyeon_polisci"}
 - {icon: "ion-logo-github", link: "https://github.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-codepen", link: "https://codepen.io"}
-- {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
-- {icon: "ion-logo-youtube", link: "https://youtube.com"}
+- {icon: "ion-logo-pinterest", link: "https://www.linkedin.com/in/soyeon-jeon-polisci/"} # linked-in
+- {icon: "ion-logo-codepen", link: "https://codepen.io"} # email
+# - {icon: "ion-logo-vimeo", link: "https://vimeo.com"} # orcid: https://orcid.org/0009-0003-7672-8946
+# - {icon: "ion-logo-youtube", link: "https://youtube.com"}
