@@ -44,7 +44,7 @@ author:
 
 projects__settings:
   projects__title: Working <span class="text-span">Paper</span> # Add a 'text-span' class to highlight text.
-  projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  projects__description: My work focuses on detecting and mitigating bias in large language and vision-language models, implementing these models in social science research, and analyzing voter decision-making and behavior using advanced computational methods.
 
 
 #-------------------------------
@@ -55,23 +55,23 @@ testimonial__title: My Happy <span class="text-span">Committee</span> # Add a 't
 testimonial-items:
   - name: "Jacob Montgomery"
     image: "/images/client-1.jpg"
-    designation : "Traveler"
-    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    designation : "Professor at WashU PoliSci"
+    content : "Professor Montgomery's research focuses on how to use advanced methods from statistics and computer science for core social science tasks including measurement and theory testing with a special focus on American politics and (more recently) social media."
 
   - name: "Christopher Lucas"
     image: "/images/client-2.jpg"
-    designation : "Designer"
-    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    designation : "Associate Professor at WashU PoliSci"
+    content : "Professor Lucas studies methodology, political communication, and the media."
 
   - name: "Taylor Carlson"
     image: "/images/client-3.jpg"
-    designation : "CEO, Founder"
-    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    designation : "Associate Professor at WashU PoliSci"
+    content : "Professor Carlson studies American Politics with a focus on political communication and political psychology."
 
   - name: "Betsy Sinclair"
     image: "/images/client-4.jpg"
-    designation : "Full stack developer"
-    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    designation : "Thomas F. Eagleton University Professor of Public Affairs and Political Science"
+    content : "​Professor Sinclair’s research interests include American politics and political methodology with an emphasis on individual political behavior."
 
 
 #-------------------------------
