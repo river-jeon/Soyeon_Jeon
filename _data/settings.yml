@@ -11,8 +11,8 @@ menu__settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Teaching'
+      url: '/teaching/'
     - title: 'Pages'
       submenu:
       - url: '/about'
