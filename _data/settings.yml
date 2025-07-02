@@ -80,7 +80,7 @@ testimonial-items:
 
 
 #-------------------------------
-# Blog Section
+# Teaching Section
 
 blog__settings:
   blog__title: Recent <span class="text-span">News</span> # Add a 'text-span' class to highlight text.
