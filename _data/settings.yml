@@ -81,9 +81,9 @@ testimonial-items:
 #-------------------------------
 # Teaching Section
 
-blog__settings:
-  blog__title: Recent <span class="text-span">News</span> # Add a 'text-span' class to highlight text.
-  blog__description:
+teaching__settings:
+  teaching__title: Recent <span class="text-span">News</span> # Add a 'text-span' class to highlight text.
+  teaching__description:
 
 
 #-------------------------------
