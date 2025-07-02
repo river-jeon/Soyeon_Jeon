@@ -12,7 +12,7 @@ menu__settings:
     - title: 'Projects'
       url: '/projects/'
     - title: 'Teaching'
-      url: '/teaching/'
+      url: '/blog/'
     - title: 'Pages'
       submenu:
       - url: '/about'
