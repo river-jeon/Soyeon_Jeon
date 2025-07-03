@@ -10,8 +10,8 @@ I like being surrounded by ideas, unexpected questions, and moments that demand 
 
 Computational social science is my main toolkit, especially when it comes to political communication. However, I’ve also wandered into city halls with notebooks, worked alongside grassroots activists, and sat through more participatory budgeting meetings than I can count. I care deeply about the mechanics of citizens' behavioral changes, especially how digital media, visuals, and sound shape what people believe and how they act.  
 
-![Loneliness]({{site.baseurl}}/images/30.jpg)  
-*Photo by [Grace Madeline](https://unsplash.com/@grxcemadeline) on Unsplash*
+![Loneliness]({{site.baseurl}}/images/39.jpg)  
+*PolMeth XXXIX Poster on Emotion in Presidential TV Debate: Real-time Responses and Political Information Processing with [Do Won Kim](https://do-won.github.io/)*
 
 I’m currently thinking a lot about how vision-language models interpret political content, and what that means for bias, mediation, and the messy work of public opinion. I study how people process information online, how campaigns persuade (or fail), and how everyday citizens make sense of the noise. Multimodal methods that combine text, image, and sound are becoming my playground.
 
