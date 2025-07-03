@@ -21,12 +21,7 @@ I’m currently thinking a lot about how vision-language models interpret politi
     <img src="/images/project-8.jpg" alt="Project">
     <img src="/images/project-6.jpg" alt="Project">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+<!--   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em> -->
 </div>
 
 Movies, dramas, and animations keep me balanced. I go to the gym more out of duty than passion. I’m not a public intellectual, but I believe deeply in the importance of public relevance. I’m methodologically rigorous and cross-disciplinary by nature, and I'm still figuring it all out. 
-
-Fun fact: I’ve been playing [kkwaenggwari] for 20 years. Here’s a clip if you’re curious!
-
-<p><iframe src="https://youtu.be/zs69cpFaIm4?si=fUAM-UEokrmmOwJq&t=2" frameborder="0" allowfullscreen></iframe></p>
-
