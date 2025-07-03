@@ -4,12 +4,18 @@ title: About
 image: '/images/38.jpg'
 ---
 
-Hi, my name is James Clayton. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf twee thundercats ennui.
+Hi, my name is Soyeon Jeon.  
 
-![Loneliness]({{site.baseurl}}/images/30.jpg)
+I like being surrounded by ideas, unexpected questions, and moments that demand curiosity. I do what excites me, often with too much energy, and avoid what doesn’t. I like the kind of academic freedom where you work seven days a week, but you choose which seven. You’ll usually find me somewhere between code and equations, toggling tabs between vision-language models, media content, and voters' decisions.  
+
+Computational social science is my main toolkit, especially when it comes to political communication. However, I’ve also wandered into city halls with notebooks, worked alongside grassroots activists, and sat through more participatory budgeting meetings than I can count. I care deeply about the mechanics of citizens' behavioral changes, especially how digital media, visuals, and sound shape what people believe and how they act.  
+
+![Loneliness]({{site.baseurl}}/images/30.jpg)  
 *Photo by [Grace Madeline](https://unsplash.com/@grxcemadeline) on Unsplash*
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim. Tousled brunch leggings hella viral twee etsy butcher messenger.
+I’m currently thinking a lot about how vision-language models interpret political content, and what that means for bias, mediation, and the messy work of public opinion. I study how people process information online, how campaigns persuade (or fail), and how everyday citizens make sense of the noise. Multimodal methods that combine text, image, and sound are becoming my playground.
+
+Movies, dramas, and animations keep me balanced. I go to the gym more out of duty than passion. I’m not a public intellectual, but I believe deeply in the importance of public relevance. I’m methodologically rigorous and cross-disciplinary by nature, and I'm still figuring it all out.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -20,11 +26,6 @@ Offal post-ironic before they sold out mixtape you probably haven't heard of the
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan listicle.
 
 <p><iframe src="https://www.youtube.com/embed/QyQ85DEVpbc" frameborder="0" allowfullscreen></iframe></p>
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray forage.
-
-***
