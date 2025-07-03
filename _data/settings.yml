@@ -9,16 +9,18 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'About'
+      url: '/about/'
     - title: 'Projects'
       url: '/projects/'
     - title: 'Teaching'
       url: '/teaching/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about'
-        title: 'About'
-      - url: '/elements'
-        title: 'Elements'
+    # - title: 'Pages'
+    #   submenu:
+    #   - url: '/about'
+    #     title: 'About'
+    #   - url: '/elements'
+    #     title: 'Elements'
 
 # Call to action button
 cta__button__text: Get in touch
