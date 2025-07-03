@@ -26,4 +26,4 @@ My central focus these days is understanding the mechanisms driving citizen beha
 </div>
 
 
-Movies, dramas, and animations provide a mental reset for me. I approach fitness as a necessary discipline rather than a passion. Although I don't consider myself a public intellectual, I'm deeply committed to conducting research with public relevance.
+Movies, dramas, and animations provide a mental reset for me. Although I don't consider myself a public intellectual, I'm deeply committed to conducting research with public relevance.
