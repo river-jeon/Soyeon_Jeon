@@ -28,5 +28,5 @@ Movies, dramas, and animations keep me balanced. I go to the gym more out of dut
 
 Fun fact: I’ve been playing [kkwaenggwari] for 20 years. Here’s a clip if you’re curious!
 
-<p><iframe src="[https://www.youtube.com/embed/QyQ85DEVpbc](https://youtu.be/zs69cpFaIm4?si=fUAM-UEokrmmOwJq&t=2)" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://youtu.be/zs69cpFaIm4?si=fUAM-UEokrmmOwJq&t=2" frameborder="0" allowfullscreen></iframe></p>
 
