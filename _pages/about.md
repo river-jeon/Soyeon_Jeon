@@ -15,8 +15,6 @@ Computational social science is my main toolkit, especially when it comes to pol
 
 I’m currently thinking a lot about how vision-language models interpret political content, and what that means for bias, mediation, and the messy work of public opinion. I study how people process information online, how campaigns persuade (or fail), and how everyday citizens make sense of the noise. Multimodal methods that combine text, image, and sound are becoming my playground.
 
-Movies, dramas, and animations keep me balanced. I go to the gym more out of duty than passion. I’m not a public intellectual, but I believe deeply in the importance of public relevance. I’m methodologically rigorous and cross-disciplinary by nature, and I'm still figuring it all out.
-
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/project-5.jpg" alt="Project">
@@ -26,6 +24,9 @@ Movies, dramas, and animations keep me balanced. I go to the gym more out of dut
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
+Movies, dramas, and animations keep me balanced. I go to the gym more out of duty than passion. I’m not a public intellectual, but I believe deeply in the importance of public relevance. I’m methodologically rigorous and cross-disciplinary by nature, and I'm still figuring it all out. 
 
-<p><iframe src="https://www.youtube.com/embed/QyQ85DEVpbc" frameborder="0" allowfullscreen></iframe></p>
+Fun fact: I’ve been playing [kkwaenggwari] for 20 years. Here’s a clip if you’re curious!
+
+<p><iframe src="[https://www.youtube.com/embed/QyQ85DEVpbc](https://youtu.be/zs69cpFaIm4?si=fUAM-UEokrmmOwJq&t=2)" frameborder="0" allowfullscreen></iframe></p>
 
