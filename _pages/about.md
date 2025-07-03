@@ -21,7 +21,7 @@ My central focus these days is understanding the mechanisms driving citizen beha
     <img src="/images/project-10.jpg" alt="Project">
     <img src="/images/project-11.jpg" alt="Project">
   </div>
-  <em>My <a href="https://polisci.wustl.edu/people?cat=444&letter=All" target="_blank">PhD cohort</a> provides invaluable intellectual support. I’m also grateful to the <a href="https://mcdonnell.wustl.edu/community/scholars/" target="_blank">McDonnell Academy and 2022 cohort of scoholars</a> for their continued encouragement and community.</em>
+  <em>My <a href="https://polisci.wustl.edu/people?cat=444&letter=All" target="_blank">PhD cohort</a> provides invaluable intellectual support. I’m also grateful to the <a href="https://mcdonnell.wustl.edu/community/scholars/" target="_blank">McDonnell Academy and 2022 cohort of scoholars</a> for their continued encouragement and community</em>
 <!--   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em> -->
 </div>
 
