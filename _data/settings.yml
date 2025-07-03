@@ -10,7 +10,7 @@ menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'About'
-      url: '/about/'
+      url: '/about'
     - title: 'Projects'
       url: '/projects/'
     - title: 'Teaching'
