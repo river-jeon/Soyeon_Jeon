@@ -6,7 +6,8 @@ window.addEventListener("load", function(){
   ======================= */
   var body = document.querySelector("body"),
   contactBox = document.querySelector(".contact-modal"),
-  contactOpenButton = document.querySelector(".cta-button"),
+  contactOpenButton = document.querySelector(".cta-button:not(.real-cta)"),
+  // contactOpenButton = document.querySelector(".cta-button"),
   contactCloseButton = document.querySelector(".contact-close"),
   menuOpenIcon = document.querySelector(".nav__icon-menu"),
   menuCloseIcon = document.querySelector(".nav__icon-close"),
