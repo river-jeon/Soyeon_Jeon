@@ -106,7 +106,7 @@ contact__settings:
 # Newsletter Settings
 mailchimp__settings:
   mailchimp__title: <span class="text-span">Join</span> my mailing list # Add your title
-  mailchimp__text: " 'I’ll be attending the following conferences in 2025. Feel free to reach out if you're around! I'd love to connect.' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
+  mailchimp__text: " 'I’ll be attending the following conferences in 2025. Feel free to reach out if you’re around! I’d love to connect.' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
   mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
   mailchimp__button__text: Subscribe # Add your button text
 
