@@ -22,9 +22,19 @@ window.addEventListener("load", function(){
   });
 
   contactOpenButton.addEventListener("click", (e) => {
-    e.preventDefault();
-    contactOpen();
+  const href = contactOpenButton.getAttribute("href");
+  if (href && href.startsWith("http")) {
+    return; // Let the link behave normally
+  }
+
+  e.preventDefault();
+  contactOpen();
   });
+
+  // contactOpenButton.addEventListener("click", (e) => {
+  //   e.preventDefault();
+  //   contactOpen();
+  // });
 
   contactCloseButton.addEventListener("click", (e) => {
     contactClose();
