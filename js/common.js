@@ -6,7 +6,7 @@ window.addEventListener("load", function(){
   ======================= */
   var body = document.querySelector("body"),
   contactBox = document.querySelector(".contact-modal"),
-  contactOpenButton = document.querySelector(".cta-button:not(.real-cta)"),
+  contactOpenButton = document.querySelector(".cta-button"),
   // contactOpenButton = document.querySelector(".cta-button"),
   contactCloseButton = document.querySelector(".contact-close"),
   menuOpenIcon = document.querySelector(".nav__icon-menu"),
@@ -21,15 +21,20 @@ window.addEventListener("load", function(){
     menuClose();
   });
 
-  contactOpenButton.addEventListener("click", (e) => {
-    const href = contactOpenButton.getAttribute("href");
-    if (href && href.startsWith("http")) {
-      return; // Let the link behave normally
-    }
+  if (contactOpenButton) {
+    contactOpenButton.addEventListener("click", (e) => {
+      const href = contactOpenButton.getAttribute("href");
   
-    e.preventDefault();
-    contactOpen();
-  });
+      // If it's a full URL, just let the browser handle it (i.e. open link)
+      if (href && href.startsWith("http")) {
+        return;
+      }
+  
+      // Otherwise, prevent default and show modal
+      e.preventDefault();
+      contactOpen();
+    });
+  }
 
   // contactOpenButton.addEventListener("click", (e) => {
   //   e.preventDefault();
