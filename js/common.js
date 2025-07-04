@@ -104,16 +104,36 @@ window.addEventListener("load", function(){
   /* ============================
   // Smooth scrolling to section
   ============================ */
+  // document.querySelectorAll(".author__btn").forEach(anchor => {
+  //   anchor.addEventListener("click", function (e) {
+  //     e.preventDefault();
+
+  //     document.querySelector(this.getAttribute("href")).scrollIntoView({
+  //       behavior: "smooth"
+  //     });
+  //   });
+  // });
+  
   document.querySelectorAll(".author__btn").forEach(anchor => {
     anchor.addEventListener("click", function (e) {
-      e.preventDefault();
-
-      document.querySelector(this.getAttribute("href")).scrollIntoView({
-        behavior: "smooth"
-      });
+      const href = this.getAttribute("href");
+  
+      // Only intercept links that are in-page anchors (start with #)
+      if (href && href.startsWith("#")) {
+        e.preventDefault();
+        const target = document.querySelector(href);
+        if (target) {
+          target.scrollIntoView({
+            behavior: "smooth"
+          });
+        }
+      }
+      // Else, let normal link behavior happen (e.g., open file or external page)
     });
   });
 
+
+  
 
   /* ============================
   // Testimonials Slider
