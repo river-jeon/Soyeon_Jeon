@@ -24,7 +24,7 @@ menu__settings:
 
 # Call to action button
 cta__button__text: Get in touch
-cta__button__url: 'https://forms.gle/Y9ZeM6LotngD4PLN9'
+cta__button__url: 'https://forms.gle/gntQyii3RaDsLyC38'
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
 cover__image: '/images/37.jpg'
