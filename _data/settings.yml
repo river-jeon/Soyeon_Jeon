@@ -130,6 +130,6 @@ social:
 - {icon: "ion-logo-twitter", link: "https://x.com/soyeon_polisci"}
 - {icon: "ion-logo-github", link: "https://github.com/river-jeon"}
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/soyeon-jeon-polisci/"} # linked-in
-- {icon: "ion-md-school", link: "https://polisci.wustl.edu/people/soyeon-jeon"} # school-link
+- {icon: "ion-ios-school", link: "https://polisci.wustl.edu/people/soyeon-jeon"} # school-link
 # - {icon: "ion-logo-vimeo", link: "https://vimeo.com"} # orcid: https://orcid.org/0009-0003-7672-8946
 # - {icon: "ion-logo-youtube", link: "https://youtube.com"}
